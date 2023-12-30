@@ -1,8 +1,8 @@
-🌐**Dive into Data with [Shareen]** 🌐
+🌐**Dive into Data with Shareen** 🌐
 
 Greetings, data enthusiasts!
 
-Embark on a data-driven adventure with me, [Shareen], your guide through the realms of data science. From coding snippets to full-fledged projects, this space is a hub for all things data-related.
+Embark on a data-driven adventure with me, Shareen, your guide through the realms of data science. From coding snippets to full-fledged projects, this space is a hub for all things data-related.
 
 **What to Expect:**
 - 📈 **Data Analysis:** Uncover stories hidden within datasets.
