@@ -1,0 +1,10 @@
+# IRIS Flower Classification Project
+
+![IRIS Flowers]
+
+Welcome to the IRIS Flower Classification Project repository!
+This project is a simple yet illustrative example of using machine learning to classify IRIS flowers into different species based on their sepal and petal characteristics.
+
+## Overview
+
+The IRIS dataset is a classic dataset in the realm of machine learning and statistics. It consists of 150 samples of iris flowers, each belonging to one of three species: setosa, versicolor, or virginica. The goal of this project is to build a machine learning model that can accurately predict the species of an iris flower based on its sepal length, sepal width, petal length, and petal width.
